@@ -1,4 +1,4 @@
-# PUBG_Win_Prediction
+
 # PUBG Win Prediction Analysis
 
 This repository contains a Jupyter Notebook (Game_pubg_winpred.ipynb) that analyzes PUBG (PlayerUnknown's Battlegrounds) game data to predict player win percentages based on various in-game statistics.
